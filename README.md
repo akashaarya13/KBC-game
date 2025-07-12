@@ -10,7 +10,6 @@ This is a simple Python-based terminal game inspired by the popular TV show **Ka
 
 - Command-line interface
 - Multiple-choice questions
-- Lifeline options (e.g. 50:50, audience poll) *(optional, based on your code)*
 - Tracks winnings per question
 - Simple and beginner-friendly Python code
 
@@ -21,4 +20,4 @@ This is a simple Python-based terminal game inspired by the popular TV show **Ka
 1. Make sure you have Python installed (preferably Python 3).
 2. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/akashaarya13/KBC-game.git
